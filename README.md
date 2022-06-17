@@ -1,6 +1,4 @@
-# Sql-and-Power-BI
 
-Data Analyst Portfolio Project| Build a Database | Develop SQL | Create a Dashboard
 Build a visual data story or dashboard using Power BI to present to your stakeholders.
 Data Analysis Project Pipeline:
 1.	Build a Database
